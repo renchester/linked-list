@@ -1,4 +1,4 @@
-export default sclass ListNode {
+export default class ListNode {
   constructor(data, next) {
     this.value = data;
     this.nextNode = next || null;
